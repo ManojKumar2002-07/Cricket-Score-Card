@@ -52,3 +52,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 For any inquiries or feedback, please contact prashanth.pottola@gmail.com
 "# Cricket-Score-Card" 
+"# Cricket-Score-Card" 
